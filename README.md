@@ -6,21 +6,21 @@
 
 我的刷题历程按照题目的类型进行分类，以下是详细的目录： 
 
-[第一阶段题目汇总]()
+[第一阶段题目汇总](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage)
 
-1. [🧪数组(Array)](链接放这里) 
+1. [🧪数组(Array)](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/Array)
 
-2.  [💼哈希表(Hashmap)](链接放这里) 
+2.  [💼哈希表(Hashmap)](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/Hashmap)
 
-3.  [📚队列&栈(Queue & Stack)](链接放这里) 
+3.  [📚队列&栈(Queue & Stack)](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/Queue%26Stack)
 
-4.  [🌳树(Tree)](链接放这里) 
+4.  [🌳树(Tree)](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/Tree)
 
-5.  [✂️图(Graph)](链接放这里) 
+5.  [✂️图(Graph)](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/Graph) 
 
-6.  [🎯排序算法(Sorting Algorithm)](链接放这里) 
+6.  [🎯排序算法(Sorting Algorithm)](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/SortAlgorithm)
 
-7.  [💡动态规划(Dynamic Programming)](链接放这里)
+7.  [💡动态规划(Dynamic Programming)](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/DynamicProgramming)
 
 ... 不断更新中！ 
 
@@ -37,11 +37,11 @@
 
 以下是我接受的企业挑战及我解决问题的方法：
 
-[第二阶段题目汇总]()
+[第二阶段题目汇总](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheSecondStage)
 
-1. [🚀 Google](链接放这里) - 在此可找到所有 Google 的刷题记录和解决方法 
-2.  [🍏 Apple](链接放这里) - 在此可找到所有 Apple 的刷题记录和解决方法 
-3.  [💼 Microsoft](链接放这里) - 在此可找到所有 Microsoft 的刷题记录和解决方法 
+1. [🚀 HaWei](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheSecondStage/HaWei) - 在此可找到所有 HaWei 的刷题记录和解决方法 
+2.  [🙈 ByteDance](链接放这里) - 在此可找到所有 ByteDance 的刷题记录和解决方法 
+3.  [💼 MiHaYou](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheSecondStage/MiHaYou) - 在此可找到所有 MiHaYou 的刷题记录和解决方法 
 4.  [🐦 Twitter](链接放这里) - 在此可找到所有 Twitter 的刷题记录和解决方法 
 5.  [🔵 Facebook](链接放这里) - 在此可找到所有 Facebook 的刷题记录和解冰方法 
 6.  [🔝 Amazon](链接放这里) - 在此可找到所有 Amazon 的刷题记录和解决方法 
