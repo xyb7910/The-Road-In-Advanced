@@ -21,6 +21,7 @@
 6.  [🎯排序算法(Sorting Algorithm)](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/SortAlgorithm)
 
 7.  [💡动态规划(Dynamic Programming)](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/DynamicProgramming)
+8.  [🙈 广度优先搜索（ Breadth First Search）](https://github.com/xyb7910/The-Road-In-Advanced/tree/main/LeetCodeProblem/TheFirstStage/BFS)
 
 ... 不断更新中！ 
 
